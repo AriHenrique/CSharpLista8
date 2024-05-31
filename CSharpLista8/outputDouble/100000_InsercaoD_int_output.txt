@@ -1,0 +1,6 @@
+
+100000-----------------Insercao-----------------
+
+vetorCrescente - double - Insercao Double - Movimentações: 99999, Comparações: 99999, Tempo: 0 ms
+vetorDecrescente - double - Insercao Double - Movimentações: 5000049999, Comparações: 5000049999, Tempo: 16382 ms
+vetorAleatorio - double - Insercao Double - Movimentações: 2501047840, Comparações: 2501047840, Tempo: 8164 ms

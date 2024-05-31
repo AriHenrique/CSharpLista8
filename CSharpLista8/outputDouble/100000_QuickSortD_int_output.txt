@@ -1,0 +1,6 @@
+
+100000-----------------QuickSort-----------------
+
+vetorCrescente - double - QuickSort Double - Movimentações: 196605, Comparações: 1534481, Tempo: 3 ms
+vetorDecrescente - double - QuickSort Double - Movimentações: 346602, Comparações: 1484496, Tempo: 3 ms
+vetorAleatorio - double - QuickSort Double - Movimentações: 1233702, Comparações: 1810250, Tempo: 13 ms

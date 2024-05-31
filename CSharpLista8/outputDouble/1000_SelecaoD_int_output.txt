@@ -1,0 +1,6 @@
+
+1000-----------------Selecao-----------------
+
+vetorCrescente - double - Selecao Double - Movimentações: 2997, Comparações: 499500, Tempo: 1 ms
+vetorDecrescente - double - Selecao Double - Movimentações: 2997, Comparações: 499500, Tempo: 1 ms
+vetorAleatorio - double - Selecao Double - Movimentações: 2997, Comparações: 499500, Tempo: 1 ms

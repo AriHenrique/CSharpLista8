@@ -1,0 +1,6 @@
+
+500000-----------------Insercao-----------------
+
+vetorCrescente - Insercao - Movimentações: 499999, Comparações: 499999, Tempo: 2 ms
+vetorDecrescente - Insercao - Movimentações: 125000249999, Comparações: 125000249999, Tempo: 376614 ms
+vetorAleatorio - Insercao - Movimentações: 62569554148, Comparações: 62569554148, Tempo: 189011 ms

@@ -1,0 +1,6 @@
+
+10000-----------------Bolha-----------------
+
+vetorCrescente - double - Bolha Double - Movimentações: 0, Comparações: 49995000, Tempo: 102 ms
+vetorDecrescente - double - Bolha Double - Movimentações: 49995000, Comparações: 49995000, Tempo: 337 ms
+vetorAleatorio - double - Bolha Double - Movimentações: 24730258, Comparações: 49995000, Tempo: 263 ms

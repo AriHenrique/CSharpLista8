@@ -1,0 +1,6 @@
+
+100000-----------------Bolha-----------------
+
+vetorCrescente - Bolha - Movimentações: 0, Comparações: 4999950000, Tempo: 10433 ms
+vetorDecrescente - Bolha - Movimentações: 4999950000, Comparações: 4999950000, Tempo: 21499 ms
+vetorAleatorio - Bolha - Movimentações: 2505546932, Comparações: 4999950000, Tempo: 27006 ms

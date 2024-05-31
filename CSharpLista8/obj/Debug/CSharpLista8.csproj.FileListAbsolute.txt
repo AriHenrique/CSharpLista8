@@ -1,0 +1,6 @@
+C:\Users\arihe\OneDrive - sga.pucminas.br\developer\sharp\CSharpLista8\CSharpLista8\bin\Debug\CSharpLista8.exe
+C:\Users\arihe\OneDrive - sga.pucminas.br\developer\sharp\CSharpLista8\CSharpLista8\bin\Debug\CSharpLista8.pdb
+C:\Users\arihe\OneDrive - sga.pucminas.br\developer\sharp\CSharpLista8\CSharpLista8\obj\Debug\CSharpLista8.csproj.AssemblyReference.cache
+C:\Users\arihe\OneDrive - sga.pucminas.br\developer\sharp\CSharpLista8\CSharpLista8\obj\Debug\CSharpLista8.csproj.CoreCompileInputs.cache
+C:\Users\arihe\OneDrive - sga.pucminas.br\developer\sharp\CSharpLista8\CSharpLista8\obj\Debug\CSharpLista8.exe
+C:\Users\arihe\OneDrive - sga.pucminas.br\developer\sharp\CSharpLista8\CSharpLista8\obj\Debug\CSharpLista8.pdb

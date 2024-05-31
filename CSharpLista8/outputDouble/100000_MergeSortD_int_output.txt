@@ -1,0 +1,6 @@
+
+100000-----------------MergeSort-----------------
+
+vetorCrescente - double - MergeSort - Movimentações: 3337856, Comparações: 853904, Tempo: 16 ms
+vetorDecrescente - double - MergeSort - Movimentações: 3337856, Comparações: 815024, Tempo: 15 ms
+vetorAleatorio - double - MergeSort - Movimentações: 3337856, Comparações: 1536530, Tempo: 24 ms

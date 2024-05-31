@@ -1,0 +1,6 @@
+
+10000-----------------CountingSort-----------------
+
+vetorCrescente - CountingSort - Movimentações: 50000, Comparações: 9999, Tempo: 0 ms
+vetorDecrescente - CountingSort - Movimentações: 50000, Comparações: 9999, Tempo: 0 ms
+vetorAleatorio - CountingSort - Movimentações: 50000, Comparações: 9999, Tempo: 0 ms

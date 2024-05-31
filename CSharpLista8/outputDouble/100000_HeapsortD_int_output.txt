@@ -1,0 +1,6 @@
+
+100000-----------------Heapsort-----------------
+
+vetorCrescente - double - HeapSort - Movimentações: 8813676, Comparações: 4306838, Tempo: 33 ms
+vetorDecrescente - double - HeapSort - Movimentações: 4492302, Comparações: 4295700, Tempo: 28 ms
+vetorAleatorio - double - HeapSort - Movimentações: 4886718, Comparações: 4300462, Tempo: 35 ms
